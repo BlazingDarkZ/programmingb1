@@ -1,0 +1,12 @@
+============================================================
+SERVER LOG SUMMARY
+============================================================
+
+Total Requests: 0
+Unique Visitors: 0
+
+HTTP Methods:
+
+Top 5 URLs:
+
+Status Codes:

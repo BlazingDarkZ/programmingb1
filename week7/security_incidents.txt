@@ -1,0 +1,11 @@
+============================================================
+SECURITY REPORT
+============================================================
+
+Total Incidents: 0
+
+Brute Force Attempts:
+
+Forbidden Access:
+
+All Incidents:

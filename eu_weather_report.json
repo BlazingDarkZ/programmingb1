@@ -1,0 +1,4997 @@
+{
+  "Vienna": {
+    "city": "Vienna",
+    "country": "Austria",
+    "coordinates": {
+      "latitude": 48.2,
+      "longitude": 16.38
+    },
+    "current_weather": {
+      "temperature": 9.0,
+      "windspeed": 6.6,
+      "weathercode": 0,
+      "condition": "Clear sky",
+      "time": "2026-02-27T19:45"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-02-27T00:00",
+        "temperature": 4.6,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T01:00",
+        "temperature": 3.9,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T02:00",
+        "temperature": 3.2,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T03:00",
+        "temperature": 3.1,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T04:00",
+        "temperature": 2.5,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T05:00",
+        "temperature": 2.1,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T06:00",
+        "temperature": 2.2,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T07:00",
+        "temperature": 1.7,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T08:00",
+        "temperature": 1.8,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T09:00",
+        "temperature": 2.7,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T10:00",
+        "temperature": 4.7,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T11:00",
+        "temperature": 6.2,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T12:00",
+        "temperature": 8.1,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T13:00",
+        "temperature": 10.1,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T14:00",
+        "temperature": 11.4,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T15:00",
+        "temperature": 12.1,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T16:00",
+        "temperature": 12.7,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T17:00",
+        "temperature": 12.3,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T18:00",
+        "temperature": 11.3,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T19:00",
+        "temperature": 10.0,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T20:00",
+        "temperature": 8.8,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T21:00",
+        "temperature": 7.8,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T22:00",
+        "temperature": 7.2,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T23:00",
+        "temperature": 6.7,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      }
+    ]
+  },
+  "Brussels": {
+    "city": "Brussels",
+    "country": "Belgium",
+    "coordinates": {
+      "latitude": 50.854,
+      "longitude": 4.35
+    },
+    "current_weather": {
+      "temperature": 12.6,
+      "windspeed": 19.1,
+      "weathercode": 61,
+      "condition": "Rain (slight)",
+      "time": "2026-02-27T19:45"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-02-27T00:00",
+        "temperature": 12.6,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T01:00",
+        "temperature": 12.7,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T02:00",
+        "temperature": 11.6,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T03:00",
+        "temperature": 11.9,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T04:00",
+        "temperature": 12.3,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T05:00",
+        "temperature": 11.7,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T06:00",
+        "temperature": 11.7,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T07:00",
+        "temperature": 12.1,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T08:00",
+        "temperature": 12.4,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T09:00",
+        "temperature": 12.7,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T10:00",
+        "temperature": 13.2,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T11:00",
+        "temperature": 14.0,
+        "precipitation_probability": 3,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T12:00",
+        "temperature": 15.0,
+        "precipitation_probability": 7,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T13:00",
+        "temperature": 13.9,
+        "precipitation_probability": 12,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T14:00",
+        "temperature": 15.1,
+        "precipitation_probability": 18,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T15:00",
+        "temperature": 16.4,
+        "precipitation_probability": 26,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T16:00",
+        "temperature": 14.0,
+        "precipitation_probability": 37,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T17:00",
+        "temperature": 14.2,
+        "precipitation_probability": 54,
+        "weathercode": 53,
+        "condition": "Drizzle (moderate)"
+      },
+      {
+        "time": "2026-02-27T18:00",
+        "temperature": 13.5,
+        "precipitation_probability": 75,
+        "weathercode": 63,
+        "condition": "Rain (moderate)"
+      },
+      {
+        "time": "2026-02-27T19:00",
+        "temperature": 12.8,
+        "precipitation_probability": 90,
+        "weathercode": 61,
+        "condition": "Rain (slight)"
+      },
+      {
+        "time": "2026-02-27T20:00",
+        "temperature": 12.6,
+        "precipitation_probability": 95,
+        "weathercode": 53,
+        "condition": "Drizzle (moderate)"
+      },
+      {
+        "time": "2026-02-27T21:00",
+        "temperature": 12.4,
+        "precipitation_probability": 95,
+        "weathercode": 53,
+        "condition": "Drizzle (moderate)"
+      },
+      {
+        "time": "2026-02-27T22:00",
+        "temperature": 12.3,
+        "precipitation_probability": 92,
+        "weathercode": 53,
+        "condition": "Drizzle (moderate)"
+      },
+      {
+        "time": "2026-02-27T23:00",
+        "temperature": 12.3,
+        "precipitation_probability": 85,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      }
+    ]
+  },
+  "Sofia": {
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "coordinates": {
+      "latitude": 42.6875,
+      "longitude": 23.3125
+    },
+    "current_weather": {
+      "temperature": 4.7,
+      "windspeed": 6.2,
+      "weathercode": 1,
+      "condition": "Mainly clear",
+      "time": "2026-02-27T20:45"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-02-27T00:00",
+        "temperature": 1.9,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T01:00",
+        "temperature": 1.3,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T02:00",
+        "temperature": 0.9,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T03:00",
+        "temperature": 0.6,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T04:00",
+        "temperature": 0.2,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T05:00",
+        "temperature": -0.9,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T06:00",
+        "temperature": -1.2,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T07:00",
+        "temperature": -1.4,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T08:00",
+        "temperature": -1.4,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T09:00",
+        "temperature": -0.7,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T10:00",
+        "temperature": 0.7,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T11:00",
+        "temperature": 3.5,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T12:00",
+        "temperature": 6.1,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T13:00",
+        "temperature": 7.9,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T14:00",
+        "temperature": 9.6,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T15:00",
+        "temperature": 10.1,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T16:00",
+        "temperature": 10.2,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T17:00",
+        "temperature": 10.4,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T18:00",
+        "temperature": 9.1,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T19:00",
+        "temperature": 7.0,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T20:00",
+        "temperature": 5.7,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T21:00",
+        "temperature": 4.5,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T22:00",
+        "temperature": 3.5,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T23:00",
+        "temperature": 2.8,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      }
+    ]
+  },
+  "Zagreb": {
+    "city": "Zagreb",
+    "country": "Croatia",
+    "coordinates": {
+      "latitude": 45.82,
+      "longitude": 15.98
+    },
+    "current_weather": {
+      "temperature": 10.9,
+      "windspeed": 5.4,
+      "weathercode": 0,
+      "condition": "Clear sky",
+      "time": "2026-02-27T19:45"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-02-27T00:00",
+        "temperature": 7.7,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T01:00",
+        "temperature": 6.8,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T02:00",
+        "temperature": 6.3,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T03:00",
+        "temperature": 5.8,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T04:00",
+        "temperature": 4.9,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T05:00",
+        "temperature": 4.2,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T06:00",
+        "temperature": 3.8,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T07:00",
+        "temperature": 3.2,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T08:00",
+        "temperature": 3.5,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T09:00",
+        "temperature": 5.5,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T10:00",
+        "temperature": 8.3,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T11:00",
+        "temperature": 10.3,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T12:00",
+        "temperature": 12.2,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T13:00",
+        "temperature": 14.1,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T14:00",
+        "temperature": 15.3,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T15:00",
+        "temperature": 15.9,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T16:00",
+        "temperature": 16.4,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T17:00",
+        "temperature": 15.8,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T18:00",
+        "temperature": 14.6,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T19:00",
+        "temperature": 11.7,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T20:00",
+        "temperature": 10.8,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T21:00",
+        "temperature": 10.4,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T22:00",
+        "temperature": 9.9,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T23:00",
+        "temperature": 9.4,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      }
+    ]
+  },
+  "Nicosia": {
+    "city": "Nicosia",
+    "country": "Cyprus",
+    "coordinates": {
+      "latitude": 35.1875,
+      "longitude": 33.375
+    },
+    "current_weather": {
+      "temperature": 8.5,
+      "windspeed": 4.1,
+      "weathercode": 0,
+      "condition": "Clear sky",
+      "time": "2026-02-27T20:45"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-02-27T00:00",
+        "temperature": 8.6,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T01:00",
+        "temperature": 8.4,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T02:00",
+        "temperature": 8.6,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T03:00",
+        "temperature": 8.2,
+        "precipitation_probability": 5,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T04:00",
+        "temperature": 8.0,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T05:00",
+        "temperature": 7.7,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T06:00",
+        "temperature": 7.6,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T07:00",
+        "temperature": 7.3,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T08:00",
+        "temperature": 9.0,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T09:00",
+        "temperature": 11.2,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T10:00",
+        "temperature": 11.8,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T11:00",
+        "temperature": 12.2,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T12:00",
+        "temperature": 12.7,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T13:00",
+        "temperature": 13.0,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T14:00",
+        "temperature": 12.9,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T15:00",
+        "temperature": 12.9,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T16:00",
+        "temperature": 12.5,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T17:00",
+        "temperature": 11.7,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T18:00",
+        "temperature": 10.6,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T19:00",
+        "temperature": 9.7,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T20:00",
+        "temperature": 9.0,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T21:00",
+        "temperature": 8.4,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T22:00",
+        "temperature": 7.8,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T23:00",
+        "temperature": 7.0,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      }
+    ]
+  },
+  "Prague": {
+    "city": "Prague",
+    "country": "Czechia",
+    "coordinates": {
+      "latitude": 50.08,
+      "longitude": 14.439999
+    },
+    "current_weather": {
+      "temperature": 9.1,
+      "windspeed": 2.8,
+      "weathercode": 0,
+      "condition": "Clear sky",
+      "time": "2026-02-27T19:45"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-02-27T00:00",
+        "temperature": 5.8,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T01:00",
+        "temperature": 4.6,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T02:00",
+        "temperature": 4.0,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T03:00",
+        "temperature": 3.5,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T04:00",
+        "temperature": 2.5,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T05:00",
+        "temperature": 2.4,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T06:00",
+        "temperature": 1.4,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T07:00",
+        "temperature": 1.4,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T08:00",
+        "temperature": 1.5,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T09:00",
+        "temperature": 2.2,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T10:00",
+        "temperature": 3.9,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T11:00",
+        "temperature": 6.2,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T12:00",
+        "temperature": 8.8,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T13:00",
+        "temperature": 10.1,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T14:00",
+        "temperature": 11.9,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T15:00",
+        "temperature": 13.1,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T16:00",
+        "temperature": 13.4,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T17:00",
+        "temperature": 13.0,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T18:00",
+        "temperature": 12.1,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T19:00",
+        "temperature": 10.6,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T20:00",
+        "temperature": 8.7,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T21:00",
+        "temperature": 7.8,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T22:00",
+        "temperature": 7.0,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T23:00",
+        "temperature": 6.5,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      }
+    ]
+  },
+  "Copenhagen": {
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "coordinates": {
+      "latitude": 55.6785,
+      "longitude": 12.570435
+    },
+    "current_weather": {
+      "temperature": 8.5,
+      "windspeed": 7.2,
+      "weathercode": 51,
+      "condition": "Drizzle (light)",
+      "time": "2026-02-27T19:45"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-02-27T00:00",
+        "temperature": 7.9,
+        "precipitation_probability": 21,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T01:00",
+        "temperature": 7.6,
+        "precipitation_probability": 37,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T02:00",
+        "temperature": 7.2,
+        "precipitation_probability": 59,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T03:00",
+        "temperature": 7.0,
+        "precipitation_probability": 84,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T04:00",
+        "temperature": 7.0,
+        "precipitation_probability": 100,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T05:00",
+        "temperature": 6.6,
+        "precipitation_probability": 100,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T06:00",
+        "temperature": 7.0,
+        "precipitation_probability": 94,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T07:00",
+        "temperature": 7.3,
+        "precipitation_probability": 88,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T08:00",
+        "temperature": 7.7,
+        "precipitation_probability": 89,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T09:00",
+        "temperature": 7.6,
+        "precipitation_probability": 92,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T10:00",
+        "temperature": 7.6,
+        "precipitation_probability": 86,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T11:00",
+        "temperature": 8.2,
+        "precipitation_probability": 62,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T12:00",
+        "temperature": 8.5,
+        "precipitation_probability": 30,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T13:00",
+        "temperature": 10.3,
+        "precipitation_probability": 6,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T14:00",
+        "temperature": 10.3,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T15:00",
+        "temperature": 10.4,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T16:00",
+        "temperature": 10.9,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T17:00",
+        "temperature": 10.5,
+        "precipitation_probability": 14,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T18:00",
+        "temperature": 9.8,
+        "precipitation_probability": 35,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T19:00",
+        "temperature": 8.8,
+        "precipitation_probability": 53,
+        "weathercode": 53,
+        "condition": "Drizzle (moderate)"
+      },
+      {
+        "time": "2026-02-27T20:00",
+        "temperature": 8.4,
+        "precipitation_probability": 63,
+        "weathercode": 53,
+        "condition": "Drizzle (moderate)"
+      },
+      {
+        "time": "2026-02-27T21:00",
+        "temperature": 8.1,
+        "precipitation_probability": 69,
+        "weathercode": 53,
+        "condition": "Drizzle (moderate)"
+      },
+      {
+        "time": "2026-02-27T22:00",
+        "temperature": 8.1,
+        "precipitation_probability": 75,
+        "weathercode": 55,
+        "condition": "Drizzle (dense)"
+      },
+      {
+        "time": "2026-02-27T23:00",
+        "temperature": 7.9,
+        "precipitation_probability": 81,
+        "weathercode": 53,
+        "condition": "Drizzle (moderate)"
+      }
+    ]
+  },
+  "Tallinn": {
+    "city": "Tallinn",
+    "country": "Estonia",
+    "coordinates": {
+      "latitude": 59.439518,
+      "longitude": 24.75708
+    },
+    "current_weather": {
+      "temperature": 3.2,
+      "windspeed": 20.9,
+      "weathercode": 3,
+      "condition": "Overcast",
+      "time": "2026-02-27T20:45"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-02-27T00:00",
+        "temperature": 1.3,
+        "precipitation_probability": 22,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T01:00",
+        "temperature": 1.3,
+        "precipitation_probability": 9,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T02:00",
+        "temperature": 1.5,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T03:00",
+        "temperature": 1.5,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T04:00",
+        "temperature": 1.5,
+        "precipitation_probability": 2,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T05:00",
+        "temperature": 1.5,
+        "precipitation_probability": 4,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T06:00",
+        "temperature": 1.8,
+        "precipitation_probability": 5,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T07:00",
+        "temperature": 2.0,
+        "precipitation_probability": 6,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T08:00",
+        "temperature": 2.2,
+        "precipitation_probability": 6,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T09:00",
+        "temperature": 2.4,
+        "precipitation_probability": 5,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T10:00",
+        "temperature": 2.7,
+        "precipitation_probability": 3,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T11:00",
+        "temperature": 2.8,
+        "precipitation_probability": 2,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T12:00",
+        "temperature": 2.9,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T13:00",
+        "temperature": 3.0,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T14:00",
+        "temperature": 3.5,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T15:00",
+        "temperature": 3.6,
+        "precipitation_probability": 6,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T16:00",
+        "temperature": 3.9,
+        "precipitation_probability": 16,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T17:00",
+        "temperature": 3.8,
+        "precipitation_probability": 22,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T18:00",
+        "temperature": 3.6,
+        "precipitation_probability": 24,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T19:00",
+        "temperature": 3.3,
+        "precipitation_probability": 23,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T20:00",
+        "temperature": 3.2,
+        "precipitation_probability": 20,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T21:00",
+        "temperature": 3.2,
+        "precipitation_probability": 14,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T22:00",
+        "temperature": 3.2,
+        "precipitation_probability": 6,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T23:00",
+        "temperature": 3.1,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      }
+    ]
+  },
+  "Helsinki": {
+    "city": "Helsinki",
+    "country": "Finland",
+    "coordinates": {
+      "latitude": 60.17136,
+      "longitude": 24.927353
+    },
+    "current_weather": {
+      "temperature": 1.8,
+      "windspeed": 19.4,
+      "weathercode": 3,
+      "condition": "Overcast",
+      "time": "2026-02-27T20:45"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-02-27T00:00",
+        "temperature": 0.6,
+        "precipitation_probability": 82,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T01:00",
+        "temperature": 0.7,
+        "precipitation_probability": 79,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T02:00",
+        "temperature": 1.0,
+        "precipitation_probability": 75,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T03:00",
+        "temperature": 1.2,
+        "precipitation_probability": 73,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T04:00",
+        "temperature": 1.3,
+        "precipitation_probability": 71,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T05:00",
+        "temperature": 1.4,
+        "precipitation_probability": 65,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T06:00",
+        "temperature": 1.5,
+        "precipitation_probability": 52,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T07:00",
+        "temperature": 1.5,
+        "precipitation_probability": 35,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T08:00",
+        "temperature": 1.5,
+        "precipitation_probability": 22,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T09:00",
+        "temperature": 1.6,
+        "precipitation_probability": 18,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T10:00",
+        "temperature": 1.7,
+        "precipitation_probability": 19,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T11:00",
+        "temperature": 1.8,
+        "precipitation_probability": 18,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T12:00",
+        "temperature": 2.0,
+        "precipitation_probability": 13,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T13:00",
+        "temperature": 2.1,
+        "precipitation_probability": 7,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T14:00",
+        "temperature": 2.0,
+        "precipitation_probability": 4,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T15:00",
+        "temperature": 2.0,
+        "precipitation_probability": 8,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T16:00",
+        "temperature": 2.0,
+        "precipitation_probability": 16,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T17:00",
+        "temperature": 2.1,
+        "precipitation_probability": 20,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T18:00",
+        "temperature": 2.1,
+        "precipitation_probability": 15,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T19:00",
+        "temperature": 1.9,
+        "precipitation_probability": 6,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T20:00",
+        "temperature": 1.9,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T21:00",
+        "temperature": 1.8,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T22:00",
+        "temperature": 1.7,
+        "precipitation_probability": 2,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T23:00",
+        "temperature": 1.6,
+        "precipitation_probability": 4,
+        "weathercode": 3,
+        "condition": "Overcast"
+      }
+    ]
+  },
+  "Paris": {
+    "city": "Paris",
+    "country": "France",
+    "coordinates": {
+      "latitude": 48.86,
+      "longitude": 2.3599997
+    },
+    "current_weather": {
+      "temperature": 13.4,
+      "windspeed": 13.5,
+      "weathercode": 61,
+      "condition": "Rain (slight)",
+      "time": "2026-02-27T19:45"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-02-27T00:00",
+        "temperature": 12.4,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T01:00",
+        "temperature": 11.7,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T02:00",
+        "temperature": 11.3,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T03:00",
+        "temperature": 10.9,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T04:00",
+        "temperature": 10.4,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T05:00",
+        "temperature": 10.2,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T06:00",
+        "temperature": 10.1,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T07:00",
+        "temperature": 9.6,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T08:00",
+        "temperature": 9.4,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T09:00",
+        "temperature": 9.8,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T10:00",
+        "temperature": 11.7,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T11:00",
+        "temperature": 13.0,
+        "precipitation_probability": 3,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T12:00",
+        "temperature": 13.5,
+        "precipitation_probability": 3,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T13:00",
+        "temperature": 14.8,
+        "precipitation_probability": 55,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T14:00",
+        "temperature": 15.1,
+        "precipitation_probability": 83,
+        "weathercode": 61,
+        "condition": "Rain (slight)"
+      },
+      {
+        "time": "2026-02-27T15:00",
+        "temperature": 15.2,
+        "precipitation_probability": 70,
+        "weathercode": 61,
+        "condition": "Rain (slight)"
+      },
+      {
+        "time": "2026-02-27T16:00",
+        "temperature": 13.7,
+        "precipitation_probability": 60,
+        "weathercode": 61,
+        "condition": "Rain (slight)"
+      },
+      {
+        "time": "2026-02-27T17:00",
+        "temperature": 13.6,
+        "precipitation_probability": 58,
+        "weathercode": 61,
+        "condition": "Rain (slight)"
+      },
+      {
+        "time": "2026-02-27T18:00",
+        "temperature": 13.7,
+        "precipitation_probability": 55,
+        "weathercode": 61,
+        "condition": "Rain (slight)"
+      },
+      {
+        "time": "2026-02-27T19:00",
+        "temperature": 13.5,
+        "precipitation_probability": 60,
+        "weathercode": 61,
+        "condition": "Rain (slight)"
+      },
+      {
+        "time": "2026-02-27T20:00",
+        "temperature": 13.4,
+        "precipitation_probability": 60,
+        "weathercode": 61,
+        "condition": "Rain (slight)"
+      },
+      {
+        "time": "2026-02-27T21:00",
+        "temperature": 13.3,
+        "precipitation_probability": 58,
+        "weathercode": 61,
+        "condition": "Rain (slight)"
+      },
+      {
+        "time": "2026-02-27T22:00",
+        "temperature": 13.2,
+        "precipitation_probability": 30,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T23:00",
+        "temperature": 12.4,
+        "precipitation_probability": 13,
+        "weathercode": 3,
+        "condition": "Overcast"
+      }
+    ]
+  },
+  "Berlin": {
+    "city": "Berlin",
+    "country": "Germany",
+    "coordinates": {
+      "latitude": 52.52,
+      "longitude": 13.4
+    },
+    "current_weather": {
+      "temperature": 14.4,
+      "windspeed": 8.4,
+      "weathercode": 0,
+      "condition": "Clear sky",
+      "time": "2026-02-27T19:45"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-02-27T00:00",
+        "temperature": 8.6,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T01:00",
+        "temperature": 8.0,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T02:00",
+        "temperature": 7.4,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T03:00",
+        "temperature": 6.9,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T04:00",
+        "temperature": 6.5,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T05:00",
+        "temperature": 6.2,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T06:00",
+        "temperature": 6.0,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T07:00",
+        "temperature": 5.8,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T08:00",
+        "temperature": 6.6,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T09:00",
+        "temperature": 8.1,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T10:00",
+        "temperature": 10.4,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T11:00",
+        "temperature": 13.0,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T12:00",
+        "temperature": 15.3,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T13:00",
+        "temperature": 17.3,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T14:00",
+        "temperature": 18.5,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T15:00",
+        "temperature": 19.2,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T16:00",
+        "temperature": 19.0,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T17:00",
+        "temperature": 18.5,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T18:00",
+        "temperature": 17.0,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T19:00",
+        "temperature": 15.5,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T20:00",
+        "temperature": 14.2,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T21:00",
+        "temperature": 13.0,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T22:00",
+        "temperature": 12.5,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T23:00",
+        "temperature": 11.9,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      }
+    ]
+  },
+  "Athens": {
+    "city": "Athens",
+    "country": "Greece",
+    "coordinates": {
+      "latitude": 38.0,
+      "longitude": 23.75
+    },
+    "current_weather": {
+      "temperature": 8.7,
+      "windspeed": 7.0,
+      "weathercode": 1,
+      "condition": "Mainly clear",
+      "time": "2026-02-27T20:45"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-02-27T00:00",
+        "temperature": 6.5,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T01:00",
+        "temperature": 6.1,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T02:00",
+        "temperature": 5.9,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T03:00",
+        "temperature": 5.5,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T04:00",
+        "temperature": 5.1,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T05:00",
+        "temperature": 4.6,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T06:00",
+        "temperature": 4.6,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T07:00",
+        "temperature": 4.5,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T08:00",
+        "temperature": 5.2,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T09:00",
+        "temperature": 7.4,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T10:00",
+        "temperature": 9.8,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T11:00",
+        "temperature": 11.1,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T12:00",
+        "temperature": 11.9,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T13:00",
+        "temperature": 12.6,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T14:00",
+        "temperature": 13.4,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T15:00",
+        "temperature": 13.5,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T16:00",
+        "temperature": 13.2,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T17:00",
+        "temperature": 12.7,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T18:00",
+        "temperature": 11.6,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T19:00",
+        "temperature": 10.2,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T20:00",
+        "temperature": 9.3,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T21:00",
+        "temperature": 8.5,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T22:00",
+        "temperature": 8.0,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T23:00",
+        "temperature": 7.4,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      }
+    ]
+  },
+  "Budapest": {
+    "city": "Budapest",
+    "country": "Hungary",
+    "coordinates": {
+      "latitude": 47.501236,
+      "longitude": 19.03534
+    },
+    "current_weather": {
+      "temperature": 7.5,
+      "windspeed": 6.8,
+      "weathercode": 2,
+      "condition": "Partly cloudy",
+      "time": "2026-02-27T19:45"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-02-27T00:00",
+        "temperature": 4.4,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T01:00",
+        "temperature": 4.1,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T02:00",
+        "temperature": 3.9,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T03:00",
+        "temperature": 3.5,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T04:00",
+        "temperature": 3.2,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T05:00",
+        "temperature": 2.8,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T06:00",
+        "temperature": 2.6,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T07:00",
+        "temperature": 3.3,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T08:00",
+        "temperature": 4.1,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T09:00",
+        "temperature": 5.6,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T10:00",
+        "temperature": 6.8,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T11:00",
+        "temperature": 8.0,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T12:00",
+        "temperature": 9.0,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T13:00",
+        "temperature": 9.8,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T14:00",
+        "temperature": 10.4,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T15:00",
+        "temperature": 10.8,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T16:00",
+        "temperature": 10.7,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T17:00",
+        "temperature": 10.2,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T18:00",
+        "temperature": 9.1,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T19:00",
+        "temperature": 8.0,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T20:00",
+        "temperature": 7.4,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T21:00",
+        "temperature": 6.8,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T22:00",
+        "temperature": 6.0,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T23:00",
+        "temperature": 5.2,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      }
+    ]
+  },
+  "Dublin": {
+    "city": "Dublin",
+    "country": "Ireland",
+    "coordinates": {
+      "latitude": 53.34692,
+      "longitude": -6.2677307
+    },
+    "current_weather": {
+      "temperature": 8.4,
+      "windspeed": 11.2,
+      "weathercode": 51,
+      "condition": "Drizzle (light)",
+      "time": "2026-02-27T18:45"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-02-27T00:00",
+        "temperature": 10.4,
+        "precipitation_probability": 45,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T01:00",
+        "temperature": 10.2,
+        "precipitation_probability": 52,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T02:00",
+        "temperature": 10.0,
+        "precipitation_probability": 57,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T03:00",
+        "temperature": 9.8,
+        "precipitation_probability": 57,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T04:00",
+        "temperature": 9.6,
+        "precipitation_probability": 52,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T05:00",
+        "temperature": 9.4,
+        "precipitation_probability": 44,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T06:00",
+        "temperature": 8.9,
+        "precipitation_probability": 35,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T07:00",
+        "temperature": 8.5,
+        "precipitation_probability": 26,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T08:00",
+        "temperature": 8.1,
+        "precipitation_probability": 17,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T09:00",
+        "temperature": 8.3,
+        "precipitation_probability": 12,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T10:00",
+        "temperature": 8.9,
+        "precipitation_probability": 12,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T11:00",
+        "temperature": 9.5,
+        "precipitation_probability": 16,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T12:00",
+        "temperature": 10.3,
+        "precipitation_probability": 22,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T13:00",
+        "temperature": 10.5,
+        "precipitation_probability": 30,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T14:00",
+        "temperature": 10.6,
+        "precipitation_probability": 41,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T15:00",
+        "temperature": 10.3,
+        "precipitation_probability": 49,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T16:00",
+        "temperature": 9.7,
+        "precipitation_probability": 55,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T17:00",
+        "temperature": 9.8,
+        "precipitation_probability": 59,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T18:00",
+        "temperature": 8.9,
+        "precipitation_probability": 57,
+        "weathercode": 53,
+        "condition": "Drizzle (moderate)"
+      },
+      {
+        "time": "2026-02-27T19:00",
+        "temperature": 8.3,
+        "precipitation_probability": 45,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T20:00",
+        "temperature": 7.5,
+        "precipitation_probability": 27,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T21:00",
+        "temperature": 7.3,
+        "precipitation_probability": 12,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T22:00",
+        "temperature": 7.2,
+        "precipitation_probability": 5,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T23:00",
+        "temperature": 6.9,
+        "precipitation_probability": 2,
+        "weathercode": 3,
+        "condition": "Overcast"
+      }
+    ]
+  },
+  "Rome": {
+    "city": "Rome",
+    "country": "Italy",
+    "coordinates": {
+      "latitude": 41.875,
+      "longitude": 12.5
+    },
+    "current_weather": {
+      "temperature": 12.7,
+      "windspeed": 3.3,
+      "weathercode": 2,
+      "condition": "Partly cloudy",
+      "time": "2026-02-27T19:45"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-02-27T00:00",
+        "temperature": 9.8,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T01:00",
+        "temperature": 8.8,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T02:00",
+        "temperature": 8.2,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T03:00",
+        "temperature": 7.9,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T04:00",
+        "temperature": 7.2,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T05:00",
+        "temperature": 6.9,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T06:00",
+        "temperature": 6.5,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T07:00",
+        "temperature": 6.2,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T08:00",
+        "temperature": 6.1,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T09:00",
+        "temperature": 7.2,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T10:00",
+        "temperature": 10.3,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T11:00",
+        "temperature": 13.7,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T12:00",
+        "temperature": 15.0,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T13:00",
+        "temperature": 16.1,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T14:00",
+        "temperature": 16.8,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T15:00",
+        "temperature": 16.7,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T16:00",
+        "temperature": 16.0,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T17:00",
+        "temperature": 15.4,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T18:00",
+        "temperature": 14.5,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T19:00",
+        "temperature": 13.4,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T20:00",
+        "temperature": 12.5,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T21:00",
+        "temperature": 12.2,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T22:00",
+        "temperature": 11.9,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T23:00",
+        "temperature": 11.4,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      }
+    ]
+  },
+  "Riga": {
+    "city": "Riga",
+    "country": "Latvia",
+    "coordinates": {
+      "latitude": 56.95295,
+      "longitude": 24.111404
+    },
+    "current_weather": {
+      "temperature": 3.3,
+      "windspeed": 19.4,
+      "weathercode": 3,
+      "condition": "Overcast",
+      "time": "2026-02-27T20:45"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-02-27T00:00",
+        "temperature": 0.0,
+        "precipitation_probability": 70,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T01:00",
+        "temperature": 0.0,
+        "precipitation_probability": 36,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T02:00",
+        "temperature": 0.1,
+        "precipitation_probability": 10,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T03:00",
+        "temperature": 0.5,
+        "precipitation_probability": 1,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T04:00",
+        "temperature": 0.9,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T05:00",
+        "temperature": 1.1,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T06:00",
+        "temperature": 1.3,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T07:00",
+        "temperature": 1.4,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T08:00",
+        "temperature": 1.5,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T09:00",
+        "temperature": 1.8,
+        "precipitation_probability": 1,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T10:00",
+        "temperature": 2.3,
+        "precipitation_probability": 2,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T11:00",
+        "temperature": 3.0,
+        "precipitation_probability": 2,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T12:00",
+        "temperature": 4.0,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T13:00",
+        "temperature": 4.9,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T14:00",
+        "temperature": 4.7,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T15:00",
+        "temperature": 4.3,
+        "precipitation_probability": 19,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T16:00",
+        "temperature": 4.1,
+        "precipitation_probability": 44,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T17:00",
+        "temperature": 3.4,
+        "precipitation_probability": 61,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T18:00",
+        "temperature": 3.1,
+        "precipitation_probability": 61,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T19:00",
+        "temperature": 3.2,
+        "precipitation_probability": 52,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T20:00",
+        "temperature": 3.2,
+        "precipitation_probability": 41,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T21:00",
+        "temperature": 3.3,
+        "precipitation_probability": 27,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T22:00",
+        "temperature": 3.4,
+        "precipitation_probability": 11,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T23:00",
+        "temperature": 3.7,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      }
+    ]
+  },
+  "Vilnius": {
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "coordinates": {
+      "latitude": 54.68259,
+      "longitude": 25.273773
+    },
+    "current_weather": {
+      "temperature": 2.7,
+      "windspeed": 15.5,
+      "weathercode": 3,
+      "condition": "Overcast",
+      "time": "2026-02-27T20:45"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-02-27T00:00",
+        "temperature": -0.8,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T01:00",
+        "temperature": -1.0,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T02:00",
+        "temperature": -1.1,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T03:00",
+        "temperature": -1.4,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T04:00",
+        "temperature": -1.4,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T05:00",
+        "temperature": -1.3,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T06:00",
+        "temperature": -1.3,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T07:00",
+        "temperature": -1.0,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T08:00",
+        "temperature": -0.6,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T09:00",
+        "temperature": -0.1,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T10:00",
+        "temperature": 0.4,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T11:00",
+        "temperature": 1.1,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T12:00",
+        "temperature": 1.8,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T13:00",
+        "temperature": 2.3,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T14:00",
+        "temperature": 2.6,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T15:00",
+        "temperature": 2.7,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T16:00",
+        "temperature": 3.0,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T17:00",
+        "temperature": 3.0,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T18:00",
+        "temperature": 2.9,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T19:00",
+        "temperature": 2.7,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T20:00",
+        "temperature": 2.7,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T21:00",
+        "temperature": 2.7,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T22:00",
+        "temperature": 2.6,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T23:00",
+        "temperature": 2.6,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      }
+    ]
+  },
+  "Luxembourg": {
+    "city": "Luxembourg",
+    "country": "Luxembourg",
+    "coordinates": {
+      "latitude": 49.612,
+      "longitude": 6.119
+    },
+    "current_weather": {
+      "temperature": 13.3,
+      "windspeed": 7.9,
+      "weathercode": 3,
+      "condition": "Overcast",
+      "time": "2026-02-27T19:45"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-02-27T00:00",
+        "temperature": 9.1,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T01:00",
+        "temperature": 8.9,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T02:00",
+        "temperature": 8.4,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T03:00",
+        "temperature": 7.9,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T04:00",
+        "temperature": 7.4,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T05:00",
+        "temperature": 7.0,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T06:00",
+        "temperature": 7.2,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T07:00",
+        "temperature": 7.0,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T08:00",
+        "temperature": 6.6,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T09:00",
+        "temperature": 7.7,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T10:00",
+        "temperature": 9.1,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T11:00",
+        "temperature": 10.9,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T12:00",
+        "temperature": 13.4,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T13:00",
+        "temperature": 15.1,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T14:00",
+        "temperature": 16.6,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T15:00",
+        "temperature": 17.0,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T16:00",
+        "temperature": 17.0,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T17:00",
+        "temperature": 16.8,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T18:00",
+        "temperature": 15.3,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T19:00",
+        "temperature": 13.9,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T20:00",
+        "temperature": 13.2,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T21:00",
+        "temperature": 12.8,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T22:00",
+        "temperature": 13.0,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T23:00",
+        "temperature": 12.8,
+        "precipitation_probability": 1,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      }
+    ]
+  },
+  "Valletta": {
+    "city": "Valletta",
+    "country": "Malta",
+    "coordinates": {
+      "latitude": 35.875,
+      "longitude": 14.5
+    },
+    "current_weather": {
+      "temperature": 12.7,
+      "windspeed": 3.6,
+      "weathercode": 1,
+      "condition": "Mainly clear",
+      "time": "2026-02-27T19:45"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-02-27T00:00",
+        "temperature": 11.0,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T01:00",
+        "temperature": 10.7,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T02:00",
+        "temperature": 10.6,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T03:00",
+        "temperature": 10.5,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T04:00",
+        "temperature": 9.9,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T05:00",
+        "temperature": 9.7,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T06:00",
+        "temperature": 9.4,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T07:00",
+        "temperature": 9.2,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T08:00",
+        "temperature": 10.8,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T09:00",
+        "temperature": 13.9,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T10:00",
+        "temperature": 15.4,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T11:00",
+        "temperature": 16.2,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T12:00",
+        "temperature": 17.2,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T13:00",
+        "temperature": 17.5,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T14:00",
+        "temperature": 17.5,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T15:00",
+        "temperature": 17.1,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T16:00",
+        "temperature": 16.7,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T17:00",
+        "temperature": 15.7,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T18:00",
+        "temperature": 14.5,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T19:00",
+        "temperature": 13.3,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T20:00",
+        "temperature": 12.5,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T21:00",
+        "temperature": 11.9,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T22:00",
+        "temperature": 11.6,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T23:00",
+        "temperature": 11.5,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      }
+    ]
+  },
+  "Amsterdam": {
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "coordinates": {
+      "latitude": 52.366,
+      "longitude": 4.901
+    },
+    "current_weather": {
+      "temperature": 11.4,
+      "windspeed": 16.6,
+      "weathercode": 51,
+      "condition": "Drizzle (light)",
+      "time": "2026-02-27T19:45"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-02-27T00:00",
+        "temperature": 11.3,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T01:00",
+        "temperature": 11.9,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T02:00",
+        "temperature": 11.7,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T03:00",
+        "temperature": 11.4,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T04:00",
+        "temperature": 11.0,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T05:00",
+        "temperature": 10.9,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T06:00",
+        "temperature": 10.2,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T07:00",
+        "temperature": 10.0,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T08:00",
+        "temperature": 9.6,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T09:00",
+        "temperature": 10.5,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T10:00",
+        "temperature": 11.1,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T11:00",
+        "temperature": 11.7,
+        "precipitation_probability": 22,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T12:00",
+        "temperature": 12.0,
+        "precipitation_probability": 53,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T13:00",
+        "temperature": 11.5,
+        "precipitation_probability": 78,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T14:00",
+        "temperature": 11.7,
+        "precipitation_probability": 90,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T15:00",
+        "temperature": 11.8,
+        "precipitation_probability": 95,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T16:00",
+        "temperature": 11.6,
+        "precipitation_probability": 98,
+        "weathercode": 55,
+        "condition": "Drizzle (dense)"
+      },
+      {
+        "time": "2026-02-27T17:00",
+        "temperature": 11.4,
+        "precipitation_probability": 100,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T18:00",
+        "temperature": 11.5,
+        "precipitation_probability": 100,
+        "weathercode": 51,
+        "condition": "Drizzle (light)"
+      },
+      {
+        "time": "2026-02-27T19:00",
+        "temperature": 11.3,
+        "precipitation_probability": 98,
+        "weathercode": 53,
+        "condition": "Drizzle (moderate)"
+      },
+      {
+        "time": "2026-02-27T20:00",
+        "temperature": 11.5,
+        "precipitation_probability": 88,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T21:00",
+        "temperature": 11.4,
+        "precipitation_probability": 74,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T22:00",
+        "temperature": 11.4,
+        "precipitation_probability": 63,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T23:00",
+        "temperature": 11.5,
+        "precipitation_probability": 57,
+        "weathercode": 3,
+        "condition": "Overcast"
+      }
+    ]
+  },
+  "Warsaw": {
+    "city": "Warsaw",
+    "country": "Poland",
+    "coordinates": {
+      "latitude": 52.23009,
+      "longitude": 21.017075
+    },
+    "current_weather": {
+      "temperature": 7.3,
+      "windspeed": 10.1,
+      "weathercode": 3,
+      "condition": "Overcast",
+      "time": "2026-02-27T19:45"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-02-27T00:00",
+        "temperature": 0.4,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T01:00",
+        "temperature": 0.2,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T02:00",
+        "temperature": -0.0,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T03:00",
+        "temperature": -0.2,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T04:00",
+        "temperature": -0.4,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T05:00",
+        "temperature": -0.5,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T06:00",
+        "temperature": -0.2,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T07:00",
+        "temperature": 0.1,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T08:00",
+        "temperature": 0.5,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T09:00",
+        "temperature": 2.0,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T10:00",
+        "temperature": 3.7,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T11:00",
+        "temperature": 5.3,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T12:00",
+        "temperature": 6.4,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T13:00",
+        "temperature": 7.5,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T14:00",
+        "temperature": 9.0,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T15:00",
+        "temperature": 10.0,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T16:00",
+        "temperature": 10.0,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T17:00",
+        "temperature": 9.2,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T18:00",
+        "temperature": 8.1,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T19:00",
+        "temperature": 7.6,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T20:00",
+        "temperature": 7.2,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T21:00",
+        "temperature": 6.3,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T22:00",
+        "temperature": 5.3,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T23:00",
+        "temperature": 4.3,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      }
+    ]
+  },
+  "Lisbon": {
+    "city": "Lisbon",
+    "country": "Portugal",
+    "coordinates": {
+      "latitude": 38.75,
+      "longitude": -9.125
+    },
+    "current_weather": {
+      "temperature": 12.9,
+      "windspeed": 16.9,
+      "weathercode": 2,
+      "condition": "Partly cloudy",
+      "time": "2026-02-27T18:45"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-02-27T00:00",
+        "temperature": 13.4,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T01:00",
+        "temperature": 12.8,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T02:00",
+        "temperature": 12.3,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T03:00",
+        "temperature": 12.1,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T04:00",
+        "temperature": 12.1,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T05:00",
+        "temperature": 12.0,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T06:00",
+        "temperature": 11.5,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T07:00",
+        "temperature": 11.7,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T08:00",
+        "temperature": 11.9,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T09:00",
+        "temperature": 12.7,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T10:00",
+        "temperature": 13.6,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T11:00",
+        "temperature": 15.2,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T12:00",
+        "temperature": 15.3,
+        "precipitation_probability": 38,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T13:00",
+        "temperature": 15.6,
+        "precipitation_probability": 58,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T14:00",
+        "temperature": 15.3,
+        "precipitation_probability": 63,
+        "weathercode": 80,
+        "condition": "Rain showers (slight)"
+      },
+      {
+        "time": "2026-02-27T15:00",
+        "temperature": 15.6,
+        "precipitation_probability": 23,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T16:00",
+        "temperature": 15.2,
+        "precipitation_probability": 3,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T17:00",
+        "temperature": 14.8,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T18:00",
+        "temperature": 13.8,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T19:00",
+        "temperature": 12.7,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T20:00",
+        "temperature": 12.1,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T21:00",
+        "temperature": 11.7,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T22:00",
+        "temperature": 11.5,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T23:00",
+        "temperature": 11.4,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      }
+    ]
+  },
+  "Bucharest": {
+    "city": "Bucharest",
+    "country": "Romania",
+    "coordinates": {
+      "latitude": 44.4375,
+      "longitude": 26.125
+    },
+    "current_weather": {
+      "temperature": 0.9,
+      "windspeed": 6.5,
+      "weathercode": 2,
+      "condition": "Partly cloudy",
+      "time": "2026-02-27T20:45"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-02-27T00:00",
+        "temperature": 1.0,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T01:00",
+        "temperature": 0.8,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T02:00",
+        "temperature": 0.4,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T03:00",
+        "temperature": 0.2,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T04:00",
+        "temperature": -0.1,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T05:00",
+        "temperature": -0.7,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T06:00",
+        "temperature": -0.8,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T07:00",
+        "temperature": -1.1,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T08:00",
+        "temperature": -1.3,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T09:00",
+        "temperature": -0.4,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T10:00",
+        "temperature": 0.7,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T11:00",
+        "temperature": 2.2,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T12:00",
+        "temperature": 3.2,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T13:00",
+        "temperature": 4.1,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T14:00",
+        "temperature": 4.5,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T15:00",
+        "temperature": 5.0,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T16:00",
+        "temperature": 4.9,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T17:00",
+        "temperature": 4.7,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T18:00",
+        "temperature": 3.7,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T19:00",
+        "temperature": 2.7,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T20:00",
+        "temperature": 1.7,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T21:00",
+        "temperature": 0.8,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T22:00",
+        "temperature": 0.1,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T23:00",
+        "temperature": -0.2,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      }
+    ]
+  },
+  "Bratislava": {
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "coordinates": {
+      "latitude": 48.14,
+      "longitude": 17.099998
+    },
+    "current_weather": {
+      "temperature": 7.6,
+      "windspeed": 11.3,
+      "weathercode": 0,
+      "condition": "Clear sky",
+      "time": "2026-02-27T19:45"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-02-27T00:00",
+        "temperature": 3.0,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T01:00",
+        "temperature": 2.6,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T02:00",
+        "temperature": 2.3,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T03:00",
+        "temperature": 2.0,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T04:00",
+        "temperature": 1.9,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T05:00",
+        "temperature": 1.6,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T06:00",
+        "temperature": 1.3,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T07:00",
+        "temperature": 1.3,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T08:00",
+        "temperature": 1.5,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T09:00",
+        "temperature": 2.4,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T10:00",
+        "temperature": 4.5,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T11:00",
+        "temperature": 6.1,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T12:00",
+        "temperature": 7.9,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T13:00",
+        "temperature": 9.6,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T14:00",
+        "temperature": 10.7,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T15:00",
+        "temperature": 11.3,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T16:00",
+        "temperature": 11.6,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T17:00",
+        "temperature": 11.0,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T18:00",
+        "temperature": 9.5,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T19:00",
+        "temperature": 8.6,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T20:00",
+        "temperature": 7.4,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T21:00",
+        "temperature": 6.2,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T22:00",
+        "temperature": 5.4,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T23:00",
+        "temperature": 4.7,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      }
+    ]
+  },
+  "Ljubljana": {
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "coordinates": {
+      "latitude": 46.06,
+      "longitude": 14.5
+    },
+    "current_weather": {
+      "temperature": 11.7,
+      "windspeed": 6.0,
+      "weathercode": 0,
+      "condition": "Clear sky",
+      "time": "2026-02-27T19:45"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-02-27T00:00",
+        "temperature": 5.5,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T01:00",
+        "temperature": 4.4,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T02:00",
+        "temperature": 3.7,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T03:00",
+        "temperature": 3.6,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T04:00",
+        "temperature": 2.8,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T05:00",
+        "temperature": 2.8,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T06:00",
+        "temperature": 2.7,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T07:00",
+        "temperature": 2.1,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T08:00",
+        "temperature": 2.2,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T09:00",
+        "temperature": 2.5,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T10:00",
+        "temperature": 4.5,
+        "precipitation_probability": 0,
+        "weathercode": 45,
+        "condition": "Fog"
+      },
+      {
+        "time": "2026-02-27T11:00",
+        "temperature": 7.0,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T12:00",
+        "temperature": 10.6,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T13:00",
+        "temperature": 13.7,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T14:00",
+        "temperature": 15.6,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T15:00",
+        "temperature": 16.7,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T16:00",
+        "temperature": 17.6,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T17:00",
+        "temperature": 17.3,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T18:00",
+        "temperature": 15.5,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T19:00",
+        "temperature": 13.6,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T20:00",
+        "temperature": 11.2,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T21:00",
+        "temperature": 10.2,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T22:00",
+        "temperature": 8.5,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T23:00",
+        "temperature": 7.3,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      }
+    ]
+  },
+  "Madrid": {
+    "city": "Madrid",
+    "country": "Spain",
+    "coordinates": {
+      "latitude": 40.4375,
+      "longitude": -3.6875
+    },
+    "current_weather": {
+      "temperature": 15.4,
+      "windspeed": 7.3,
+      "weathercode": 3,
+      "condition": "Overcast",
+      "time": "2026-02-27T19:45"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-02-27T00:00",
+        "temperature": 11.5,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T01:00",
+        "temperature": 9.8,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T02:00",
+        "temperature": 8.7,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T03:00",
+        "temperature": 8.1,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T04:00",
+        "temperature": 7.6,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T05:00",
+        "temperature": 7.0,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T06:00",
+        "temperature": 6.4,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T07:00",
+        "temperature": 5.8,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T08:00",
+        "temperature": 5.3,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T09:00",
+        "temperature": 5.8,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T10:00",
+        "temperature": 8.8,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T11:00",
+        "temperature": 11.9,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T12:00",
+        "temperature": 14.3,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T13:00",
+        "temperature": 16.1,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T14:00",
+        "temperature": 17.6,
+        "precipitation_probability": 0,
+        "weathercode": 0,
+        "condition": "Clear sky"
+      },
+      {
+        "time": "2026-02-27T15:00",
+        "temperature": 18.7,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T16:00",
+        "temperature": 19.7,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T17:00",
+        "temperature": 19.7,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T18:00",
+        "temperature": 18.8,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T19:00",
+        "temperature": 17.1,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T20:00",
+        "temperature": 15.0,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T21:00",
+        "temperature": 13.1,
+        "precipitation_probability": 0,
+        "weathercode": 2,
+        "condition": "Partly cloudy"
+      },
+      {
+        "time": "2026-02-27T22:00",
+        "temperature": 11.9,
+        "precipitation_probability": 0,
+        "weathercode": 1,
+        "condition": "Mainly clear"
+      },
+      {
+        "time": "2026-02-27T23:00",
+        "temperature": 11.0,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      }
+    ]
+  },
+  "Stockholm": {
+    "city": "Stockholm",
+    "country": "Sweden",
+    "coordinates": {
+      "latitude": 59.3289,
+      "longitude": 18.072357
+    },
+    "current_weather": {
+      "temperature": 6.8,
+      "windspeed": 15.1,
+      "weathercode": 3,
+      "condition": "Overcast",
+      "time": "2026-02-27T19:45"
+    },
+    "hourly_forecast": [
+      {
+        "time": "2026-02-27T00:00",
+        "temperature": 6.6,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T01:00",
+        "temperature": 6.8,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T02:00",
+        "temperature": 6.8,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T03:00",
+        "temperature": 6.4,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T04:00",
+        "temperature": 6.4,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T05:00",
+        "temperature": 6.2,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T06:00",
+        "temperature": 5.9,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T07:00",
+        "temperature": 6.0,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T08:00",
+        "temperature": 6.2,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T09:00",
+        "temperature": 6.5,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T10:00",
+        "temperature": 6.9,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T11:00",
+        "temperature": 7.8,
+        "precipitation_probability": 1,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T12:00",
+        "temperature": 8.0,
+        "precipitation_probability": 2,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T13:00",
+        "temperature": 8.4,
+        "precipitation_probability": 2,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T14:00",
+        "temperature": 9.0,
+        "precipitation_probability": 2,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T15:00",
+        "temperature": 8.6,
+        "precipitation_probability": 1,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T16:00",
+        "temperature": 8.1,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T17:00",
+        "temperature": 7.5,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T18:00",
+        "temperature": 7.1,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T19:00",
+        "temperature": 6.9,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T20:00",
+        "temperature": 6.8,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T21:00",
+        "temperature": 6.5,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T22:00",
+        "temperature": 6.3,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      },
+      {
+        "time": "2026-02-27T23:00",
+        "temperature": 6.0,
+        "precipitation_probability": 0,
+        "weathercode": 3,
+        "condition": "Overcast"
+      }
+    ]
+  }
+}
