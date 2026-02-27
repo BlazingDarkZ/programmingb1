@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Final Project - Task Manager</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<div class="layout">
+
+    <aside class="sidebar">
+        <h2>TaskFlow</h2>
+        <nav>
+            <button onclick="loadTasks()">All Tasks</button>
+            <button onclick="filterTasks(true)">Completed</button>
+            <button onclick="filterTasks(false)">Pending</button>
+        </nav>
+    </aside>
+
+    <main class="main">
+
+        <header class="topbar">
+            <h1>Task Dashboard</h1>
+            <div>
+                <button onclick="showStats()">📊 View Stats</button>
+                <button class="primary" onclick="showCreateForm()">+ New Task</button>
+            </div>
+        </header>
+
+        <input type="text" id="searchInput" placeholder="Search tasks..." oninput="searchTasks()">
+
+        <section class="tasks">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Title</th>
+                        <th>Description</th>
+                        <th>Status</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody id="taskTable"></tbody>
+            </table>
+        </section>
+
+    </main>
+</div>
+
+<!-- CREATE MODAL -->
+<div id="taskModal" class="modal hidden">
+    <div class="modal-content">
+        <h3>Create Task</h3>
+        <input type="text" id="titleInput" placeholder="Title">
+        <input type="text" id="descInput" placeholder="Description">
+        <button onclick="createTask()">Save</button>
+        <button onclick="closeModal()">Cancel</button>
+    </div>
+</div>
+
+<!-- STATS MODAL -->
+<div id="statsModal" class="modal hidden">
+    <div class="modal-content">
+        <h3>Task Statistics</h3>
+
+        <p>Total: <span id="statTotal"></span></p>
+        <p>Completed: <span id="statCompleted"></span></p>
+        <p>Pending: <span id="statPending"></span></p>
+
+        <div class="progress-ring">
+            <svg width="120" height="120">
+                <circle cx="60" cy="60" r="50"
+                        stroke="#eee"
+                        stroke-width="10"
+                        fill="none" />
+
+                <circle id="progressCircle"
+                        cx="60" cy="60" r="50"
+                        stroke="#6366f1"
+                        stroke-width="10"
+                        fill="none"
+                        stroke-dasharray="314"
+                        stroke-dashoffset="314"
+                        transform="rotate(-90 60 60)" />
+            </svg>
+
+            <p id="statPercent"></p>
+        </div>
+
+        <button onclick="closeStats()">Close</button>
+    </div>
+</div>
+
+<script src="/static/script.js"></script>
+</body>
+</html>
